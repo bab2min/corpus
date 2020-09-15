@@ -2,6 +2,8 @@
 
 이 폴더에는 감성 분석에 사용할 수 있도록 극성(긍정/부정)이 라벨링된 텍스트 데이터가 들어 있습니다.
 
+naver_shopping과 steam 데이터는 간단한 감성 분류 실험을 위해서 수집된 것으로 실험 내용은 [bab2min 블로그](https://bab2min.tistory.com/657)에서 확인할 수 있습니다.
+
 ## naver_shopping.txt
 
 * 언어: 한국어
